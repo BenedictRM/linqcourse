@@ -1,0 +1,15 @@
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/linq.deps.json
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/linq.runtimeconfig.json
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/linq.runtimeconfig.dev.json
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/linq.dll
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/ref/linq.dll
+/Users/russmehring/workspace/linq/bin/Debug/net5.0/linq.pdb
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.csprojAssemblyReference.cache
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.AssemblyInfoInputs.cache
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.AssemblyInfo.cs
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.csproj.CoreCompileInputs.cache
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.dll
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/ref/linq.dll
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.pdb
+/Users/russmehring/workspace/linq/obj/Debug/net5.0/linq.genruntimeconfig.cache
